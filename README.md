@@ -1,4 +1,5 @@
- [Развернуть проект](https://ra16-diploma-frontend.vercel.app/)
+ [Развернуть проект](https://ra16-diploma-frontend.vercel.app/),
+ 
  [Посмотреть задание](https://github.com/netology-code/ra16-diploma)
 
 # Дипломный проект курса «React» 

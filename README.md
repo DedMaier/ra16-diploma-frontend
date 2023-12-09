@@ -1,6 +1,3 @@
-## [**Демо**]()
-![demo](./public/images/demo.jpg)
-
 # Интернет магазин обуви
 
 Дипломный проект курса [React для JS-разработчиков](https://netology.ru/programs/react)

@@ -1,6 +1,7 @@
-# Дипломный проект курса «React» 
-[Развернуть проект](https://ra16-diploma-frontend.vercel.app/)
+ [Развернуть проект](https://ra16-diploma-frontend.vercel.app/)
+ [Посмотреть задание](https://github.com/netology-code/ra16-diploma)
 
+# Дипломный проект курса «React» 
 
 Дипломный проект курса [React для JS-разработчиков](https://netology.ru/programs/react)
 
@@ -9,7 +10,5 @@
 Дипломный проект представляет собой интернет-магазин обуви. Задача заключается в создании работающего приложения, всеми основными функциями которого можно пользоваться.
 
 ## **Задача проекта**
- [Посмотреть задание](https://github.com/netology-code/ra16-diploma)
-
 
 Бэкенд проекта находится по [ссылке](https://github.com/alekseeva-t-v/ra16-diploma-backend). Проект работает после запуска бэкенда.

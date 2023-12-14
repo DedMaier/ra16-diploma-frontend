@@ -1,4 +1,4 @@
- [Развернуть проект после запуска бэкенда](https://ra16-diploma-frontend.vercel.app/).
+ [Развернуть проект](https://ra16-diploma-frontend.vercel.app/).
 
  Проект работает только после запуска бэкенда.
 

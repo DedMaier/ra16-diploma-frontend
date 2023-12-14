@@ -1,12 +1,10 @@
  [Развернуть проект после запуска бэкенда](https://ra16-diploma-frontend.vercel.app/).
- 
+
  Проект работает только после запуска бэкенда.
 
  Бэкенд проекта находится по [ссылке](https://github.com/alekseeva-t-v/ra16-diploma-backend). 
 
-# Дипломный проект курса «React» 
-
-Дипломный проект курса [React для JS-разработчиков](https://netology.ru/programs/react)
+# Дипломный проект курса «React».
 
 [Посмотреть задание](https://github.com/netology-code/ra16-diploma).
 

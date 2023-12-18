@@ -4,6 +4,8 @@
 
  Бэкенд проекта находится по [ссылке](https://github.com/DedMaier/ra16-diploma-backend). 
 
+ Запускать сервер нужно командой npm run watch, не забудьте сначала сделать npm install, тогда он запустится в режиме live-reload.
+
 # Дипломный проект курса «React».
 
 [Посмотреть задание](https://github.com/netology-code/ra16-diploma).

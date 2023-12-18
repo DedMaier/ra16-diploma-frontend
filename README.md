@@ -1,12 +1,10 @@
- [Развернуть проект](https://ra16-diploma-frontend.vercel.app/).
-
- Проект работает только после запуска бэкенда.
-
- <!-- Бэкенд проекта находится по [ссылке](https://github.com/DedMaier/ra16-diploma-backend).  -->
-
- Запускать сервер нужно командой npm run watch, не забудьте сначала сделать npm install, тогда он запустится в режиме live-reload.
-
 # Дипломный проект курса «React».
+
+ ## Проект работает только после запуска бэкенда.
+
+ ## Запускать сервер нужно командой npm run watch, не забудьте сначала сделать npm install, тогда он запустится в режиме live-reload.
+
+[Развернуть проект](https://ra16-diploma-frontend.vercel.app/).
 
 [Посмотреть задание](https://github.com/netology-code/ra16-diploma).
 

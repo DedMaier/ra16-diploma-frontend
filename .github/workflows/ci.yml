@@ -1,5 +1,4 @@
-name: ra16-homeworks/diploma
-
+name: ra16-diploma-frontend
 on:
   push:
     branches: [ "main" ]
@@ -33,13 +32,13 @@ jobs:
         node-version: ${{ matrix.node-version }}
     
     - name: Install Frontend
-      run: npm --prefix BosaNoga/ install
+      run: npm --prefix src/ install
 
     - name: Test Frontend
-      run: npm --prefix BosaNoga/ run lint
+      run: npm --prefix src/ run lint
 
     - name: Build Frontend
-      run: npm --prefix BosaNoga/ run build
+      run: npm --prefix src/ run build
 
     - name: Setup Pages
       uses: actions/configure-pages@v2
@@ -47,7 +46,7 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v1
       with:
-        path: 'BosaNoga/dist'
+        path: 'public'
 
     - name: Deploy to GitHub Pages
       id: deployment

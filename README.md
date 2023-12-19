@@ -4,9 +4,7 @@
 
  Запускать сервер нужно командой -npm run watch-, не забудьте сначала сделать -npm install-, тогда он запустится в режиме live-reload.
 
-## Ссылка на [github-pages](https://dedmaier.github.io/ra16-diploma-frontend/)
-
-## Ссылка на [versel](https://ra16-diploma-frontend.vercel.app/)
+### Ссылка на [versel](https://ra16-diploma-frontend.vercel.app/)
 
 [Посмотреть задание](https://github.com/netology-code/ra16-diploma).
 
